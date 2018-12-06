@@ -5,7 +5,7 @@ Download: [Git for windows](https://github.com/git-for-windows/git/releases)
 1. Basic
    - `clone or download`
    
-   git clone <repo url> <customer folder name>
+     git clone <repo url> <customer folder name>
    
    - `save for change`
    
