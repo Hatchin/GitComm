@@ -48,7 +48,7 @@
      see github website
      
    
-## Switch accounts in Win
+## Switch accounts for Win
    `control panel` -> `User Accounts` -> `Credential Manager` -> `Web Credentials` -> delete the previous github account
    
    or 
