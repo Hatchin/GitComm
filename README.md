@@ -1,6 +1,7 @@
 # Git Command Short Cheatsheet
 
-Download: [Git for windows](https://github.com/git-for-windows/git/releases)
+0. Download Git
+   [Git for windows](https://github.com/git-for-windows/git/releases)
 
 1. Basic
    - clone or download
