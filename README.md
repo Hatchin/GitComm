@@ -15,9 +15,13 @@
    
      `git commit  <path_to_file> -m " commit message " `
    
-   - push to remote repository
+   - push to default branch in a remote
    
      `git push origin master`
+     
+   - pull files from a branch in a remote
+     
+     `git pull origin master`
 
 1. Version Control
    - get current working branch
@@ -26,7 +30,7 @@
    
    - create new branch
    
-     `git branch <newBranch>`
+     `git branch <branchName>`
    
    - switch branch
    
@@ -36,4 +40,11 @@
    
      `git checkout -b <newBranch>`
      
-   - 
+   - push to new branch in a remote
+     
+     `git push origin <branchName>`
+   
+   - merge a pull request
+     see github website
+     
+   
