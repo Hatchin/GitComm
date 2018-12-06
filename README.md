@@ -1,9 +1,11 @@
 # Git Command Short Cheatsheet
 
-0. Download Git
+### 0. Download Git
    [Git for windows](https://github.com/git-for-windows/git/releases)
 
-1. Basic
+## 1. Git Command
+
+1.1 Basic
    - clone or download
    
      `git clone <repo url> <customer folder name>`
@@ -16,7 +18,7 @@
    
      `git push origin master`
 
-2. Version Control
+1.2. Version Control
    - get current working branch
    
      `git branch`
