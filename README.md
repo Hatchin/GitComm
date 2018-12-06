@@ -31,3 +31,5 @@ Download: [Git for windows](https://github.com/git-for-windows/git/releases)
    - create and switch branch in one line
    
      `git checkout -b <newBranch>`
+     
+   - 
