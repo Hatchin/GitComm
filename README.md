@@ -1,6 +1,6 @@
 # Git Command Short Cheatsheet
 
-### 0. Download Git
+## 0. Download Git
    [Git for windows](https://github.com/git-for-windows/git/releases)
 
 ## 1. Git Command
