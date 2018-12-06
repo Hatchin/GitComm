@@ -48,3 +48,11 @@
      see github website
      
    
+## Switch accounts in Win
+   `control panel` -> `User Accounts` -> `Credential Manager` -> `Web Credentials` -> delete the previous github account
+   
+   or 
+   
+   `git config --global --unset-all `
+   
+   [Useful link](https://stackoverflow.com/questions/28238037/git-log-out-user-from-command-line)
