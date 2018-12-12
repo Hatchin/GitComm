@@ -55,8 +55,6 @@
    
    `git config --global --unset-all `
    
-   [Useful link](https://stackoverflow.com/questions/28238037/git-log-out-user-from-command-line)
-   
 
 ## Bash Setting
 ### 1. Remeber username and password
@@ -67,16 +65,19 @@ When pushing, if it repeatedly asks for username and password, you want system t
 or
 
  `git config [--global] credential.username "new_username"`
- 
- [Addtional information](https://stackoverflow.com/questions/11403407/git-asks-for-username-every-time-i-push)
 
 `--global` will make it apply globally, or it will only apply to current repo. 
 
-   - To remember username and password: [check here](https://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github)
 
 ### 2. Mark contributions
 To mark your contributions (make your commits associated with your account): identify both your username and email address
 
   `git config [--global] user.name <username>`
   
-  ` git config [-global] user.email <account email address>`
+  `git config [-global] user.email <account email address>`
+  
+
+## Useful Links
+ - [Switch account in Win](https://stackoverflow.com/questions/28238037/git-log-out-user-from-command-line)
+ - [Remember username](https://stackoverflow.com/questions/11403407/git-asks-for-username-every-time-i-push)
+ - [Remember usn and passwd](https://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github)
