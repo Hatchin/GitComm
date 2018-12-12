@@ -59,5 +59,6 @@
    
 
 ## Bash Setting
-### 1. Remeber username
+### 1. Remeber username and password
+When pushing, if it repeatedly asks for username and password, you want system to remember your username
 `git config --global credential.https://github.com.username <your_username>`
