@@ -56,3 +56,8 @@
    `git config --global --unset-all `
    
    [Useful link](https://stackoverflow.com/questions/28238037/git-log-out-user-from-command-line)
+   
+
+## Bash Setting
+### 1. Remeber username
+`git config --global credential.https://github.com.username <your_username>`
