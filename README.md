@@ -67,6 +67,8 @@ When pushing, if it repeatedly asks for username and password, you want system t
 or
 
  `git config [--global] credential.username "new_username"`
+ 
+ [Addtional information](https://stackoverflow.com/questions/11403407/git-asks-for-username-every-time-i-push)
 
 `--global` will make it apply globally, or it will only apply to current repo. 
 
