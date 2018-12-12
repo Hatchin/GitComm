@@ -70,7 +70,7 @@ or
 
 `--global` will make it apply globally, or it will only apply to current repo. 
 
-   - To remember username and password: [check here](https://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github)
+   - To remember username and password: [check here](https://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-      when-using-https-on-github)
 
 ### 2. Mark contributions
 To mark your contributions (make your commits associated with your account): identify both your username and email address
