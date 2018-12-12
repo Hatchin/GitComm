@@ -63,3 +63,8 @@
 When pushing, if it repeatedly asks for username and password, you want system to remember your username
 
 `git config --global credential.https://github.com.username <your_username>`
+
+- To remember username and password: [check here](https://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github)
+
+- To change a new user:
+  `git config [--global] credential.username "new_username"`
