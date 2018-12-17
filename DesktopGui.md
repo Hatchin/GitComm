@@ -37,7 +37,7 @@ click `Pull`.
 
 # 5. Branch and Merge
 Manage branches by clicking `Branch`, creating or deleting branch. 
-Merge is similar.
+Merge is similar. Click `Merge`.
 
 
 
