@@ -10,20 +10,14 @@ The file describe detailed setting up process for DataChat on AWS. After launchi
 
 `$ sudo apt-get update`
 
-`$ sudo apt-get install \
-    apt-transport-https \
-    ca-certificates \
-    curl \
-    software-properties-common`
-    
+`$ sudo apt-get install apt-transport-https ca-certificates curl software-properties-common`
+  
 `$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -`
 
 `$ sudo apt-key fingerprint 0EBFCD88` For verification
 
-`$ sudo add-apt-repository \
-   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
-   $(lsb_release -cs) \
-   stable"`
+`$ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+ $(lsb_release -cs) stable"`
 
 `$ sudo apt-get update` should update again for previous new setting
 
@@ -54,7 +48,11 @@ The file describe detailed setting up process for DataChat on AWS. After launchi
 
 `scp -i /path/to/pem /path/to/files ubuntu@aws.address:~/datachat` do this on local bash
 
-3. Start datachat
+3. Unzip the .zip file
+
+`unzip dc_deploy..`
+
+4. Start datachat
 
 `$ bash stop_dc.sh`
 
