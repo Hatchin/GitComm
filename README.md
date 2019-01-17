@@ -9,7 +9,7 @@
 1. Basic
    - clone or download
    
-     `git clone <repo url> <customer folder name>`
+     `git clone <repo url> <customer/path/to/folder/name(could be a new one)>`
    
    - save for change
    
