@@ -4,7 +4,7 @@
    
    [Git for windows](https://github.com/git-for-windows/git/releases)
 
-## Git Command
+## Git Command in terminal
 
 1. Basic
    - clone or download
@@ -13,7 +13,7 @@
    
    - save for change
    
-     `git commit  <path_to_file> -m " commit message " `
+     `git commit  <path_to_local_file> -m " commit message " `
    
    - push to default branch in a remote
    
