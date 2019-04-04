@@ -8,6 +8,7 @@
 
 # Set up
 ## 1. Download
+
 SourceTree could be downloaded from the link above. It would need some time (SourceTree made me download .Net first and it was a long process). 
 
 ## 2. Setup
