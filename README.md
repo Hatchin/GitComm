@@ -82,3 +82,4 @@ To mark your contributions (make your commits associated with your account): ide
  - [Switch account in Win](https://stackoverflow.com/questions/28238037/git-log-out-user-from-command-line)
  - [Remember username](https://stackoverflow.com/questions/11403407/git-asks-for-username-every-time-i-push)
  - [Remember usn and passwd](https://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github)
+ - [Merge two repos](https://www.waltercedric.com/index.php/development/2295-merging-two-git-repositories-into-one-repository-without-losing-file-history)
