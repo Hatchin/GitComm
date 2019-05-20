@@ -17,6 +17,9 @@ screen -d
 screen -a 
 screen -S [session id] -X quit
 
+### Ubuntu Version
+ lsb_release -a
+
 -------------------------------------------------------------
 
 
