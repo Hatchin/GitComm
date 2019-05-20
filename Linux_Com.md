@@ -20,8 +20,12 @@ screen -S [session id] -X quit
 ### Ubuntu Version
  lsb_release -a
  
-### zip a folder
+### zip 
+#### zip a file
 zip myfile.zip filename.txt
+
+#### zip a folder
+zip -r filename.zip folder
 
 -------------------------------------------------------------
 
