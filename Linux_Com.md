@@ -27,6 +27,16 @@ zip myfile.zip filename.txt
 #### zip a folder
 zip -r filename.zip folder
 
+### remove 
+#### remove a file
+rm file.name
+
+#### remove an empty folder
+rm -d dirname
+
+#### remove a non-empty folder
+rm -r dirname
+
 -------------------------------------------------------------
 
 
