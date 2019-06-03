@@ -46,3 +46,7 @@ Then run
 ```
 az dls fs download --account [foldername] --source-path [target folder address within the foldername] --destination-path . --thread-count [# of example]
 ```
+
+### Delete
+
+Delete should be done via FileZilla.
