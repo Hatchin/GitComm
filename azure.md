@@ -50,3 +50,5 @@ az dls fs download --account [foldername] --source-path [target folder address w
 ### Delete
 
 Delete should be done via FileZilla.
+
+### 
