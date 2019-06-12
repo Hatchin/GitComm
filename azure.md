@@ -52,4 +52,4 @@ az dls fs download --account [foldername] --source-path [target folder address w
 Delete should be done via FileZilla.
 
 ### 
-create a new instance??
+create a new instance?
