@@ -74,3 +74,8 @@ cd /tmp/
 curl -O https://repo.anaconda.com/archive/Anaconda3-2019.07-Linux-x86_64.sh
 bash Anaconda3-2019.07-Linux-x86_64.sh
 ```
+# Install requirements
+
+```
+pip install -r requirements.txt
+```
