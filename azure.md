@@ -35,6 +35,13 @@ chmod +x mount_data.sh
 ```
 
 ### Mount Data from DataLake
+
+Install Azure CIL in Linux
+
+```
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+```
+
 Login
 
 ```
