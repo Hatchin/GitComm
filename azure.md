@@ -54,6 +54,10 @@ Then run
 az dls fs download --account [foldername] --source-path [target folder address within the foldername] --destination-path . --thread-count [# of example]
 ```
 
+```
+az dls fs download --account imagestore --source-path /Public/Abdomen/MICCAI_Challenge/label --destination-path . --thread-count 30
+```
+
 ### Delete
 
 Delete should be done via FileZilla.
