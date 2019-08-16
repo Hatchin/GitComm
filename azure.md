@@ -65,3 +65,12 @@ Delete should be done via FileZilla.
 ### 
 create a new instance?
 An important setting
+
+
+# Install Anaconda
+
+```
+cd /tmp/
+curl -O https://repo.anaconda.com/archive/Anaconda3-2019.07-Linux-x86_64.sh
+bash Anaconda3-2019.07-Linux-x86_64.sh
+```
