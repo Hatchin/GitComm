@@ -66,15 +66,22 @@ Delete should be done via FileZilla.
 create a new instance?
 An important setting
 
-
-# Install Anaconda
+# Run
+### Install Anaconda
 
 ```
 cd /tmp/
 curl -O https://repo.anaconda.com/archive/Anaconda3-2019.07-Linux-x86_64.sh
 bash Anaconda3-2019.07-Linux-x86_64.sh
 ```
-# Install requirements
+
+### Create new environment
+
+```
+conda create -n [name] python=3.5 anaconda
+```
+
+### Install requirements
 
 ```
 pip install -r requirements.txt
