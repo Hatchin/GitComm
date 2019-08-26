@@ -8,6 +8,10 @@ conda create -n [supertramp] python=3.5 anaconda
 #### Back to op/anaconda/bin
 source activate [supertramp]
 
+### Remove Env:
+
+conda env remove --name myenv
+
 --------------------------------------------------------------
 ## Terminal 
 ### print in terminal and save
