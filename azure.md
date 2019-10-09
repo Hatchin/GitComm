@@ -57,6 +57,11 @@ az dls fs download --account [foldername] --source-path [target folder address w
 ```
 az dls fs download --account imagestore --source-path /Public/Abdomen/MICCAI_Challenge/label --destination-path . --thread-count 30
 ```
+### Upload
+```
+az dls fs upload --account imagestore --source-path "your_local_path" --destination-path /Public/Abdomen/TCIA_MultiOrgan_dicom --thread-count 30 --verbose --overwrite
+```
+
 
 ### Delete
 
