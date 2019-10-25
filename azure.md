@@ -91,3 +91,6 @@ conda create -n [name] python=3.5 anaconda
 ```
 pip install -r requirements.txt
 ```
+
+
+### Git
