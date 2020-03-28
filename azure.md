@@ -94,3 +94,7 @@ pip install -r requirements.txt
 
 
 ### Git
+
+
+## Jupyter notebook
+Azure and jupyterhub [link](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro)
