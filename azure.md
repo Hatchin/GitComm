@@ -112,4 +112,9 @@ jupyter nbextension enable <nbextension require path>/main
 
 ## Install new version of Cuda
   - visit [pre installation](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#pre-installation-actions) and check for versions
+  - download the newest [cuda tookit](http://developer.nvidia.com/cuda-downloads). If other versions are prefered, visit [cuda archive](https://developer.nvidia.com/cuda-toolkit-archive) to find the specific version
+  - select equipment version(OS, architecture, distribution and version) and `Installer Type` as `deb(local)`
+  - download the installer file
+    - e.g. `wget https://developer.nvidia.com/compute/cuda/10.0/Prod/local_installers/cuda-repo-ubuntu1804-10-0-local-10.0.130-410.48_1.0-1_amd64'
+   - run the installation instructions (go check the file name of the downloaded installer file, maybe the extension `.deb` is not required)
 
