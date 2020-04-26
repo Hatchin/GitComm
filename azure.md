@@ -109,3 +109,7 @@ jupyter nbextension enable <nbextension require path>/main
 ```
 [require path name](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html)
 
+
+## Install new version of Cuda
+  - visit [pre installation](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#pre-installation-actions) and check for versions
+
