@@ -100,7 +100,8 @@ pip install -r requirements.txt
 Azure and jupyterhub [link](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro)
 
 ## nbextension
-```pip install jupyter_contrib_nbextensions
+```
+pip install jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
 jupyter nbextension enable varInspector/main
 jupyter nbextension enable codefolding/main
