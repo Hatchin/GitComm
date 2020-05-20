@@ -112,6 +112,7 @@ jupyter nbextension enable <nbextension require path>/main
 
 
 ## Install new version of Cuda
+  - `sudo apt remove cuda`
   - visit [pre installation](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#pre-installation-actions) and check for versions
   - download the newest [cuda tookit](http://developer.nvidia.com/cuda-downloads). If other versions are prefered, visit [cuda archive](https://developer.nvidia.com/cuda-toolkit-archive) to find the specific version
   - select equipment version(OS, architecture, distribution and version) and `Installer Type` as `deb(local)`
