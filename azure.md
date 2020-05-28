@@ -62,6 +62,10 @@ az dls fs download --account imagestore --source-path /Public/Abdomen/MICCAI_Cha
 az dls fs upload --account imagestore --source-path "your_local_path" --destination-path /Public/Abdomen/TCIA_MultiOrgan_dicom --thread-count 30 --verbose --overwrite
 ```
 
+### List
+
+### Other commands
+https://docs.microsoft.com/en-us/cli/azure/dls/fs?view=azure-cli-latest#az-dls-fs-list
 
 ### Delete
 
