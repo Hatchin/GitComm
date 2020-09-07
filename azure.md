@@ -67,6 +67,12 @@ az dls fs upload --account imagestore --source-path "your_local_path" --destinat
 ### Other commands
 https://docs.microsoft.com/en-us/cli/azure/dls/fs?view=azure-cli-latest#az-dls-fs-list
 
+
+### Switch subscription
+`az account set --subscription <subscription-id>`
+
+also refer to [link](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-directory-file-acl-cli)
+
 ### Delete
 
 Delete should be done via FileZilla.
