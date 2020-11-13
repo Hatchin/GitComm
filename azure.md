@@ -116,6 +116,7 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable varInspector/main
 jupyter nbextension enable codefolding/main
 jupyter nbextension enable collapsible_headings/main
+jupyter nbextension enable toc2/main
 jupyter nbextension enable <nbextension require path>/main
 ```
 [require path name](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html)
