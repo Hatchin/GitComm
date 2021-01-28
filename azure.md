@@ -107,6 +107,7 @@ pip install -r requirements.txt
 
 
 ## Jupyter notebook
+Install jupyter notebook [link](https://github.com/rgl/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-jupyter-notebook.md)
 Azure and jupyterhub [link](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro)
 
 ## nbextension
