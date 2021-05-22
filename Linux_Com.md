@@ -47,3 +47,5 @@ rm -r dirname
 
 -------------------------------------------------------------
 
+### available space
+du -d1 -h /home/hatchin| sort -h
