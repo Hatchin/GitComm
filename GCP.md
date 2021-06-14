@@ -11,7 +11,7 @@ gcloud compute scp [vm_name]:/home/jupyter/marquette/rectum/model_train_rectum3.
 ### Example
 Transfer file from local vm to GCP vm
 Whole process:
-- Download gcp[last version](https://cloud.google.com/sdk/docs/quickstart)
+- Download gcp [(latest version)](https://cloud.google.com/sdk/docs/quickstart)
 ```
 curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-344.0.0-linux-x86_64.tar.gz
    73  ls
