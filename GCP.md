@@ -14,7 +14,6 @@ Whole process:
 - Download gcp [(latest version)](https://cloud.google.com/sdk/docs/quickstart)
 ```
 curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-344.0.0-linux-x86_64.tar.gz
-   73  ls
 ```
 
 - Unzip the downloaded file
