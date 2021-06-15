@@ -18,7 +18,7 @@ curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-
 
 - Unzip the downloaded file
 ```
-gzip -d google-cloud-sdk-344.0.0-linux-x86_64.tar.gz 
+tar -xf google-cloud-sdk-344.0.0-linux-x86_64.tar.gz
 ```
 
 - Install
