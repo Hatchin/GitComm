@@ -122,6 +122,9 @@ jupyter nbextension enable <nbextension require path>/main
 ```
 [require path name](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html)
 
+## convert nb to py
+jupyter nbconvert nb04_new_model_coarse.ipynb --to python --output nb04_new_model.py
+
 
 ## Install new version of Cuda
   - `sudo apt remove cuda`
